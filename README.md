@@ -154,4 +154,4 @@ MIT — see [LICENSE](./LICENSE).
 
 ## Author
 
-**Syed Ali Raza** — MS Physics student, solo builder.
+**Syad Ali Raza** — MS Physics student, solo builder.
